@@ -1,4 +1,4 @@
-# Customer Segmentation using K-Means Clustering 
+# Customer Segmentation using K-Means Clustering  
 
 A machine learning project that segments retail customers into meaningful groups using **K-Means Clustering**, enabling data-driven, personalized marketing strategies.
 
